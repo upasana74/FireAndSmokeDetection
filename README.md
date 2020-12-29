@@ -7,4 +7,4 @@ Dataset used: https://drive.google.com/drive/folders/1Fqc-fMOy6u5Z4o_HVPLYlncJw3
 
   Step 2: Retrieve the .h5 model and download it.
   
-  Step 3: Use the .hf model in tf_inference.ipynb to get results.
+  Step 3: Use the .h5 model in tf_inference.ipynb to get results.
