@@ -1,5 +1,5 @@
 # FireAndSmokeDetection
-Used custom trained TensorFlow models custom trained EfficientNet, Resnet and MobileNet models to detect Fire and Smoke. 
+Used custom trained TensorFlow models EfficientNet, Resnet and MobileNet models to detect Fire and Smoke. 
 
 Dataset used: https://drive.google.com/drive/folders/1Fqc-fMOy6u5Z4o_HVPLYlncJw3GtAvRr?usp=sharing
 
